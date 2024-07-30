@@ -3,7 +3,7 @@ package com.rays.java.execption;
 public class Bank {
 
 	public static void main(String[] args) {
-			Bank b=new Bank(10000,11000);
+			Bank b=new Bank(10000,12000);
 			try {
 				System.out.println(b.withdraw());
 			} catch (BankExecption e) {
