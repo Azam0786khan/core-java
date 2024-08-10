@@ -1,4 +1,4 @@
-package com.rays.java.Interface;
+package com.rays.java.opp.Interface;
 
 public interface Richman {
 	

@@ -1,4 +1,4 @@
-package com.rays.java.constructor;
+package com.rays.java.opp.constructor;
 
 public class ConstructorCalling extends constructor {
 	
